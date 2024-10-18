@@ -1,0 +1,24 @@
+/* Custom Fonts */
+@font-face {
+    font-family: "NH Display Pro";
+    font-weight: 400;
+    src: url(/assets/fonts/NeueHaasDisplayRoman.ttf);
+}
+
+@font-face {
+    font-family: "NH Display Pro";
+    font-weight: 500;
+    src: url(/assets/fonts/NeueHaasDisplayMediu.ttf);
+}
+
+@font-face {
+    font-family: "NH Display Pro";
+    font-weight: 700;
+    src: url(/assets/fonts/NeueHaasDisplayBold.ttf);
+}
+
+@font-face {
+    font-family: "NH Display Pro";
+    font-weight: 900;
+    src: url(/assets/fonts/NeueHaasDisplayBlack.ttf);
+}
